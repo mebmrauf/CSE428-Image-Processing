@@ -5,7 +5,7 @@ Digital image fundamentals, perception, representation; image transforms; First 
 ## Playlist
 
 ### SDQ
-        https://youtube.com/playlist?list=PLPfbpzAKHDr2YAuMkWOq8WOX9iBCm4f5i
+    https://youtube.com/playlist?list=PLPfbpzAKHDr2YAuMkWOq8WOX9iBCm4f5i
 
 ### Beig Rajibul Hasan
-        https://youtube.com/playlist?list=PLn12JjJn-4YnoOsrIuREbn3BmshSI3lHS
+    https://youtube.com/playlist?list=PLn12JjJn-4YnoOsrIuREbn3BmshSI3lHS
