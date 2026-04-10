@@ -7,5 +7,5 @@ Digital image fundamentals, perception, representation; image transforms; First 
 ### SDQ
     https://youtube.com/playlist?list=PLPfbpzAKHDr2YAuMkWOq8WOX9iBCm4f5i
 
-### Beig Rajibul Hasan
+### ABA, TAA
     https://youtube.com/playlist?list=PLn12JjJn-4YnoOsrIuREbn3BmshSI3lHS
